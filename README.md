@@ -1,2 +1,2 @@
 # portfolio
-Link:https://ripudaman12.github.io
+Link: https://ripudaman12.github.io
